@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turbulent Combustion | Anuj Kumar</title>
+    <link>https://anujv12.github.io/tag/turbulent-combustion/</link>
+      <atom:link href="https://anujv12.github.io/tag/turbulent-combustion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Turbulent Combustion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
+      <title>Turbulent Combustion</title>
+      <link>https://anujv12.github.io/tag/turbulent-combustion/</link>
+    </image>
+    
+    <item>
+      <title>On the application of principal component transport for compression ignition of lean fuel/air mixtures under engine relevant conditions</title>
+      <link>https://anujv12.github.io/publication/pc_transport_kisung/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/pc_transport_kisung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of turbulent combustion DNS via principal component transport</title>
+      <link>https://anujv12.github.io/publication/pc_transport/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/pc_transport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

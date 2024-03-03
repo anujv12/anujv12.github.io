@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Anuj Kumar</title>
+    <link>https://anujv12.github.io/tag/machine-learning/</link>
+      <atom:link href="https://anujv12.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://anujv12.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Combustion chemistry acceleration with DeepONets</title>
+      <link>https://anujv12.github.io/publication/react_deeponet_1/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/react_deeponet_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Physics-Constrained NeuralODE Approach for Robust Learning of Stiff Chemical Kinetics</title>
+      <link>https://anujv12.github.io/publication/ml4ps_neurips_tadbhagya/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/ml4ps_neurips_tadbhagya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics - Informed Machine Learning for Reduced Space Chemical Kinetics</title>
+      <link>https://anujv12.github.io/publication/ml4ps_neurips/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/ml4ps_neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the application of principal component transport for compression ignition of lean fuel/air mixtures under engine relevant conditions</title>
+      <link>https://anujv12.github.io/publication/pc_transport_kisung/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/pc_transport_kisung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceleration of turbulent combustion DNS via principal component transport</title>
+      <link>https://anujv12.github.io/publication/pc_transport/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/pc_transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Combustion Chemistry Acceleration with DeepONets</title>
+      <link>https://anujv12.github.io/publication/react_deeponet_2/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/react_deeponet_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

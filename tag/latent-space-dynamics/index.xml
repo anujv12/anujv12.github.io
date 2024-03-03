@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Space Dynamics | Anuj Kumar</title>
+    <link>https://anujv12.github.io/tag/latent-space-dynamics/</link>
+      <atom:link href="https://anujv12.github.io/tag/latent-space-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latent Space Dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
+      <title>Latent Space Dynamics</title>
+      <link>https://anujv12.github.io/tag/latent-space-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Physics - Informed Machine Learning for Reduced Space Chemical Kinetics</title>
+      <link>https://anujv12.github.io/publication/ml4ps_neurips/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/ml4ps_neurips/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

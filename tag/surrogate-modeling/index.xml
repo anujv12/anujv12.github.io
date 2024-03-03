@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surrogate Modeling | Anuj Kumar</title>
+    <link>https://anujv12.github.io/tag/surrogate-modeling/</link>
+      <atom:link href="https://anujv12.github.io/tag/surrogate-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Surrogate Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
+      <title>Surrogate Modeling</title>
+      <link>https://anujv12.github.io/tag/surrogate-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Combustion chemistry acceleration with DeepONets</title>
+      <link>https://anujv12.github.io/publication/react_deeponet_1/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/react_deeponet_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Combustion Chemistry Acceleration with DeepONets</title>
+      <link>https://anujv12.github.io/publication/react_deeponet_2/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/react_deeponet_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

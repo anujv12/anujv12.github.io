@@ -1,0 +1,13 @@
+@article{KUMAR2024131212,
+title = {Combustion chemistry acceleration with DeepONets},
+journal = {Fuel},
+volume = {365},
+pages = {131212},
+year = {2024},
+issn = {0016-2361},
+doi = {https://doi.org/10.1016/j.fuel.2024.131212},
+url = {https://www.sciencedirect.com/science/article/pii/S0016236124003582},
+author = {Anuj Kumar and Tarek Echekki},
+keywords = {Operator learning, Machine learning, Stiff chemistry integration, Surrogate modeling, Latent space kinetics identification},
+abstract = {A combustion chemistry acceleration scheme for implementation in reacting flow simulations is developed based on deep operator nets (DeepONets). The scheme is based on a mapping of a subset of the thermochemical scalars’ vector between incremental and adaptive time steps. The subset corresponds to variables that are adequate to represent the evolution of the chemical system. The DeepONet-based scheme also relies on a mapping of the solution of this subset onto a corresponding solution at an adaptive time increment to overcome the restrictive requirements of integrating such solutions with stiff chemistry. Training for the DeepONet is also implemented differently from previous approaches to the solution of PDEs with DeepONets. Instead of constructing solutions from their initial to their final states using DeepONets, the training relies on prescribed short-horizon time windows for training where intermediate solutions also serve as initial states for training. An additional framework of latent-space kinetics identification with modified DeepONet is proposed, which enhances the computational efficiency and widens the applicability of the proposed scheme. The scheme is demonstrated on the “simple” chemical kinetics of hydrogen oxidation and the more complex chemical kinetics of n-dodecane high- and low-temperatures. The proposed framework accurately learns the chemical kinetics and efficiently reproduces species and temperature temporal profiles. Moreover, a very large speed-up with a good extrapolation capability is also observed with the proposed scheme.}
+}
