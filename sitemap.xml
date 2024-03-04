@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anujv12.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://anujv12.github.io/publication-type/2/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/tag/chemical-kinetics/</loc>
@@ -35,6 +29,15 @@
     <loc>https://anujv12.github.io/tags/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://anujv12.github.io/talk/efficient-and-physically-consistent-surrogate-modeling-of-chemical-kinetics-using-deep-operator-networks/</loc>
+    <lastmod>2024-02-02T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/event/</loc>
+    <lastmod>2024-02-02T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/physics-informed-machine-learning-for-reduced-space-chemical-kinetics/</loc>
+    <lastmod>2023-12-15T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://anujv12.github.io/publication-type/1/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,6 +59,12 @@
     <loc>https://anujv12.github.io/tag/reduced-order-modeling/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://anujv12.github.io/talk/development-of-a-neural-ode-based-scientific-machine-learning-framework-towards-acceleration-of-combustion-cfd-simulations/</loc>
+    <lastmod>2023-12-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/a-framework-for-combustion-chemistry-acceleration-with-deeponets/</loc>
+    <lastmod>2023-11-19T15:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://anujv12.github.io/publication/pc_transport_kisung/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -73,6 +82,18 @@
   </url><url>
     <loc>https://anujv12.github.io/publication/react_deeponet_2/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/acceleration-of-stiff-chemistry-integration-with-deeponets/</loc>
+    <lastmod>2023-03-21T11:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/combustion-simulation-acceleration-via-principal-component-pc-transport-and-deep-operator-networks-deeponets/</loc>
+    <lastmod>2023-03-01T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/efficient-and-physically-consistent-surrogate-modeling-of-chemical-kinetics-using-deep-operator-networks/</loc>
+    <lastmod>2023-02-02T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/acceleration-of-turbulent-combustion-simulation-through-principal-components-transport-and-machine-learning/</loc>
+    <lastmod>2022-11-21T08:30:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
