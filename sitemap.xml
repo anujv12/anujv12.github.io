@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anujv12.github.io/publication-type/2/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://anujv12.github.io/</loc>
+    <lastmod>2025-07-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/event/</loc>
+    <lastmod>2025-07-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/talk/level-of-detail-thinking-of-scientific-ml-surrogates/</loc>
+    <lastmod>2025-07-09T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/publication-type/7/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/publication/dissertation/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/combustion/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/machine-learning/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/publication_types/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/publication/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/surrogate-models/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tags/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/turbulent-flows/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/publication-type/2/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/tag/chemical-kinetics/</loc>
@@ -14,26 +47,23 @@
     <loc>https://anujv12.github.io/publication/react_deeponet_1/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anujv12.github.io/tag/machine-learning/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/publication_types/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/publication/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://anujv12.github.io/tag/surrogate-modeling/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/tags/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/talk/efficient-and-physically-consistent-surrogate-modeling-of-chemical-kinetics-using-deep-operator-networks/</loc>
     <lastmod>2024-02-02T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anujv12.github.io/event/</loc>
-    <lastmod>2024-02-02T13:00:00+00:00</lastmod>
+    <loc>https://anujv12.github.io/publication/pinns_deeponet/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/deeponet/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/pinn/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://anujv12.github.io/tag/turbulent-combustion/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/talk/physics-informed-machine-learning-for-reduced-space-chemical-kinetics/</loc>
     <lastmod>2023-12-15T14:00:00+00:00</lastmod>
@@ -69,9 +99,6 @@
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/tag/pc-tranport/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://anujv12.github.io/tag/turbulent-combustion/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://anujv12.github.io/publication/pc_transport/</loc>

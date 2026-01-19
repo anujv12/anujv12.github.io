@@ -1,0 +1,13 @@
+@article{TAASSOB2024117163,
+title = {A PINN-DeepONet framework for extracting turbulent combustion closure from multiscalar measurements},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {429},
+pages = {117163},
+year = {2024},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117163},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524004195},
+author = {Arsalan Taassob and Anuj Kumar and Kevin M. Gitushi and Rishikesh Ranade and Tarek Echekki},
+keywords = {DeepONet, PINN, Turbulent combustion},
+abstract = {In this study, we develop a novel framework to extract turbulent combustion closure, including closure for species chemical source terms, from multiscalar and velocity measurements in turbulent flames. The technique is based on a physics-informed neural network (PINN) that combines models for velocity and scalar measurements and a deep operator network (DeepONet) to accommodate spatial measurements and experimental parameters as separate input streams. An additional key innovation is the estimate of the unconditional means of the species’ chemical source terms as additional “observations” to constrain the prediction of these rates. This estimate is based on a convolution of the means of species reaction rates conditioned on principal components of the multiscalar data and the joint probability density functions of these principal components. The PINN-DeepONet method is implemented on the so-called Sydney flames, where training is carried out on 3 flames and validated on 4 flames. The results show that, despite the limited samples of experimental parameters, including the inlet flow and the fuel jet recess length within the air flow, the PINN-DeepONet approach can construct velocity and scalar fields along with important closure terms for turbulent transport and reaction rates.}
+}

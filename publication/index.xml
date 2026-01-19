@@ -5,7 +5,7 @@
     <link>https://anujv12.github.io/publication/</link>
       <atom:link href="https://anujv12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Accelerating Combustion Simulations with Machine Learning Surrogate Models</title>
+      <link>https://anujv12.github.io/publication/dissertation/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combustion chemistry acceleration with DeepONets</title>
       <link>https://anujv12.github.io/publication/react_deeponet_1/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://anujv12.github.io/publication/react_deeponet_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PINN-DeepONet framework for extracting turbulent combustion closure from multiscalar measurements</title>
+      <link>https://anujv12.github.io/publication/pinns_deeponet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/publication/pinns_deeponet/</guid>
       <description></description>
     </item>
     

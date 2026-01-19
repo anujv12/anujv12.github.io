@@ -5,12 +5,20 @@
     <link>https://anujv12.github.io/event/</link>
       <atom:link href="https://anujv12.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited Talks and Conference Presentations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anujv12.github.io/media/icon_huac8905a50a7446490c0f418cb8941af5_354326_512x512_fill_lanczos_center_2.png</url>
       <title>Invited Talks and Conference Presentations</title>
       <link>https://anujv12.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Level-of-Detail Thinking of Scientific ML Surrogates</title>
+      <link>https://anujv12.github.io/talk/level-of-detail-thinking-of-scientific-ml-surrogates/</link>
+      <pubDate>Wed, 09 Jul 2025 13:00:00 +0000</pubDate>
+      <guid>https://anujv12.github.io/talk/level-of-detail-thinking-of-scientific-ml-surrogates/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient and Physically Consistent Surrogate Modeling of Chemical Kinetics Using Deep Operator Networks</title>
